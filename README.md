@@ -32,7 +32,7 @@ rm -f /www/server/panel/data/bind.pl
 ```
 chattr +i /www/server/panel/data/plugin.json
 ```
-给plugin.json文件上锁解锁
+给plugin.json文件解锁
 ```
 chattr -i /www/server/panel/data/plugin.json
 ```
