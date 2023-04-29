@@ -1,10 +1,10 @@
 # btpanel-v7.7.0
 btpanel-v7.7.0-backup  官方原版v7.7.0版本面板备份
-**Centos
+**Centos****
 ```Bash
 yum install curl
 ```
-**Ubuntu/Debian
+**Ubuntu/Debian**
 ```Bash
 apt install curl
 ```
