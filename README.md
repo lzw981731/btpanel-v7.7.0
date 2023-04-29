@@ -1,7 +1,16 @@
 # btpanel-v7.7.0
 btpanel-v7.7.0-backup  官方原版v7.7.0版本面板备份
+**Centos
+```Bash
+yum install curl
+```
+**Ubuntu/Debian
+```Bash
+apt install curl
+```
 
 **Centos/Ubuntu/Debian安装命令 独立运行环境（py3.7）**
+
 
 ```Bash
 curl -sSO https://cdn.jsdelivr.net/gh/lzw981731/btpanel-v7.7.0/install/install_panel.sh && bash install_panel.sh
