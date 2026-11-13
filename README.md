@@ -14,7 +14,7 @@ apt install curl
 
 
 ```Bash
-curl -sSO https://cdn.jsdelivr.net/gh/lzw981731/btpanel-v7.7.0/install/install_panel.sh && bash install_panel.sh
+curl -sSO https://raw.githubusercontent.com/lzw981731/btpanel-v7.7.0/main/install/install_panel.sh && bash install_panel.sh
 ```
 
 # 手动破解：
